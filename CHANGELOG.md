@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.3.0] - 2026-10-11
+- README 全面重构（借鉴 steve-jobs-skill 结构）：hero 区 + 4组效果示例 + 蒸馏内容表格 + 内在张力 + 调研来源 + 生态矩阵
+- 新增英文版 README_EN.md 同结构版本
 ## [1.2.0] - 2026-10-11
 - SKILL.md topics 改为 GitHub 合规英文版（与仓库 topics 一致）
 - GitHub 仓库 topics 已设置（9 个）与 description 已补充
