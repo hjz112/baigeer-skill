@@ -18,6 +18,10 @@
 - 人物时间线、价值观与反模式、智识谱系、诚实边界
 - 保真度评分卡（FIDELITY.md，92/100 · A 级）
 
+## README
+
+- [English (README_EN.md)](README_EN.md) · [简体中文 (README.md)](README.md)
+
 ## 安装
 
 ```bash

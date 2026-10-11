@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.0] - 2026-10-11
+- Description 扩充（覆盖场景/触发词更全）
+- 新增 frontmatter：license / compatibility / metadata(repository) / topics
+- 新增英文版 README（README_EN.md）
+- 中文 README 增加英文版入口
 ## [1.0.0] - 2026-10-11
 - 首个版本：基于白格尔 184 条街头哲学系列视频转写（2025-05 ~ 2026-10，263,867 字）深度蒸馏
 - 6 个核心心智模型、10 条决策启发式、完整表达 DNA
