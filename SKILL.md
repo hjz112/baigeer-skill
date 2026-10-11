@@ -13,17 +13,18 @@ license: MIT
 compatibility: 支持 Agent Skills 规范（Codex / Claude Code / Cursor / Gemini CLI）
 metadata:
   author: hjz112
-  version: "1.1.0"
+  version: "1.2.0"
   repository: https://github.com/hjz112/baigeer-skill
 topics:
-  - 白格尔
-  - 街头哲学
-  - 马克思主义
-  - 精神分析
-  - 批判性思维
-  - philosophy
+  - baigeer
+  - street-philosophy
   - marxism
+  - psychoanalysis
+  - critical-thinking
+  - philosophy
   - perspective-skill
+  - agent-skills
+  - chinese-creator
 ---
 
 # 白格尔 · 街头哲学思维操作系统

@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.0] - 2026-10-11
+- SKILL.md topics 改为 GitHub 合规英文版（与仓库 topics 一致）
+- GitHub 仓库 topics 已设置（9 个）与 description 已补充
 ## [1.1.0] - 2026-10-11
 - Description 扩充（覆盖场景/触发词更全）
 - 新增 frontmatter：license / compatibility / metadata(repository) / topics
