@@ -1,0 +1,12 @@
+# https://github.com/openai/codex/blob/main/docs/skills.md
+name: baigeer-perspective
+description: |
+  Use this skill when the user wants to analyze a problem, decision, or life situation
+  through 白格尔's thinking framework (街头哲学/马克思主义+精神分析批判性思考), or explicitly
+  asks to consult/role-play as 白格尔. Covers: 社会现象批判, 政治经济分析(剩余价值/阶级/异化),
+  个人困境(内耗/虚无/欲望/幸福), 教育, AI时代议题, 历史与意识形态批判. Triggers on
+  「用白格尔的视角」「白格尔会怎么看」「街头哲学」「格宝怎么看」「用马克思主义看看这个问题」,
+  "baigeer perspective", "how would 白格尔 think". Do NOT auto-trigger on generic advice
+  unless 白格尔 or 街头哲学 is explicitly invoked.
+allow_implicit_invocation: false
+disable-model-invocation: false
